@@ -54,6 +54,8 @@ This repository is organized to provide a clear view of the analysis process and
 Each folder and files servs a specific purpose, from data storage to scripts,notebooks,and reports,ensuring the project is well-documented and easy to navigate.
 
 Below is a summary of the project structure.
+## Dataset
+The original dataset can be accessed directly in the ['data/'SalesData.xlsx) folder of this repository
 
 
     
