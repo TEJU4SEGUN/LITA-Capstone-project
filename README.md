@@ -23,7 +23,7 @@ The insights from this project are intended to assist retail management in optim
   - Result and Findings
  
     ## Dataset
-    **Source** Proprietary retail sales data
+    **Source**: Proprietary retail sales data
     
     **Description**: The dataset includes transactions records with fields like
     'OrderID,'Customer Id','Product','Region','OrderDate','Quantity','UnitPrice'.
@@ -47,6 +47,13 @@ Each tool served a specific purpose, ensuring that data processing, analysis, an
    - Used to create interactive dashboards and visualizations for presenting findings.
    - Allowed stakeholders to explore data dynamically by category, time period, and customer segment.
    - Integrated data from multiple sources, providing a unified reporting solution.
+  
+
+## Project Structure
+This repository is organized to provide a clear view of the analysis process and findings for the "Sales Performance Anaysis for a Retail Sore" project.
+Each folder and files servs a specific purpose, from data storage to scripts,notebooks,and reports,ensuring the project is well-documented and easy to navigate.
+
+Below is a summary of the project structure.
 
 
     
