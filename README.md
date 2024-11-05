@@ -129,7 +129,7 @@ D. Top Selling Product By Region
 - identify products with no sales in the last quarter.
 
   
-     
+  ![sql_No_Sales](sql_No_Sales.JPG)
 
   
 
