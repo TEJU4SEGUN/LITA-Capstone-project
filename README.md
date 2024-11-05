@@ -124,8 +124,11 @@ D. Top Selling Product By Region
 -
 - calculate the percentage of total sales contributed by each region.
 
+![sql_Percentage](sql_Percentage.JPG)
   
 - identify products with no sales in the last quarter.
+
+  
      
 
   
