@@ -111,6 +111,7 @@ D. Top Selling Product By Region
   
 - calculate total revenue per product.
 
+- ![sql_Revenue](sql_Revenue.JPG)
 - 
 - calculate monthly sales totals for the current year.
 
