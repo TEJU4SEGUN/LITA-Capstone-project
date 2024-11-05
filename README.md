@@ -64,8 +64,7 @@ To prepare the raw sales data for anaylsis, i performed the following steps:
 
    A. Sum of Total revenue by Product
    
-  ![Total sales by product] 
-  (image/Total%20sales%20by%20product.JPG)
+![Total sales by product](image/Total%20sales%20by%20product.JPG)
   
 
 
