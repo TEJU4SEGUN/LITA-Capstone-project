@@ -76,7 +76,7 @@ C. Top Selling Product
 
 D. Top Selling Product By Region
 
-![Top_Selling_Product_Region](image/Top_Selling_Product_Region.JPG)
+![Top_Selling_Product_Region](Top_Selling_Product_Region.JPG)
 
 
 
