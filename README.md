@@ -70,6 +70,9 @@ B. Regional Performance
 
 ![image/Region performance](image/Region%20performance.JPG)
 
+C. Top Selling Product
+
+
 
 
 
