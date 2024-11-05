@@ -119,10 +119,12 @@ D. Top Selling Product By Region
 - 
 - find the top 5 customers by total purchase amount.
 
-- 
-
-- 
+  
+![sql_top5](sql_top5.JPG)
+-
 - calculate the percentage of total sales contributed by each region.
+
+  
 - identify products with no sales in the last quarter.
      
 
