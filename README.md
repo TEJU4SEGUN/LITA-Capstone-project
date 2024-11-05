@@ -85,6 +85,10 @@ D. Top Selling Product By Region
 
   ![Sum_of_Total_Revenue_by_Month](Sum_of_Total_Revenue_by_Month.JPG)
 
+3. **Use Excel formulas to calculate metrics such as**:
+   - average sales per product
+     
+
   
 
 
