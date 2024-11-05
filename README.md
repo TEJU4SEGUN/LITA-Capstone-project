@@ -63,7 +63,8 @@ To prepare the raw sales data for anaylsis, i performed the following steps:
 2. **Created Pivot Tables for Aggegation**:I used pivot tables to organize the data and calculate key metrics, such as
 
    A. Sum of Total revenue by Product
-   !sa
+   
+   ![Total sales by product](images/Total sales by product.jpeg).
    
 
 
