@@ -132,8 +132,8 @@ D. Top Selling Product By Region
   ![sql_No_Sales](sql_No_Sales.JPG)
 
   
-
-
+5. Then i Create a dashboard that visualizes the insights found in Excel and SQL.
+   The dashboard include a sales overview, top-performing products, and regional breakdowns.
 
     
 
