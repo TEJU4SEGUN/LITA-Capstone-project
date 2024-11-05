@@ -89,6 +89,8 @@ D. Top Selling Product By Region
    - average sales per product
   
      ![image/Average_sales_Per_Product](image/Average_sales_Per_Product.JPG)
+
+     - total revenue by region
      
 
   
