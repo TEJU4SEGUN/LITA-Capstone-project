@@ -57,6 +57,15 @@ Below is a summary of the project structure.
 ## Dataset
 The original dataset can be accessed directly in the ['data/'SalesData.xlsx) folder of this repository
 
+## Data Cleaning and Transformation
+To prepare the raw sales data for anaylsis, i performed the following steps:
+1. **Removed Duplicates**: Ensured data accurracy by eliminating duplicate entries, allowing each sales transactions to be unique.
+2. **Created Pivot Tables for Aggegation**:I used pivot tables to organize the data and calculate key metrics, such as
+
+   A. Sum of Total revenue by Product
+   
+
+
 
     
 
