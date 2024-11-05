@@ -68,6 +68,8 @@ To prepare the raw sales data for anaylsis, i performed the following steps:
 
 B. Regional Performance
 
+![image/Region performance](image/Region%20performance.JPG)
+
 
 
 
