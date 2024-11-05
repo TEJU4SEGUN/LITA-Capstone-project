@@ -78,7 +78,8 @@ D. Top Selling Product By Region
 
 ![Top_Selling_Product_Region](Top_Selling_Product_Region.JPG)
 
-
+## Key Insights
+- Shoes had the highest sales in the south region
 
 
 
