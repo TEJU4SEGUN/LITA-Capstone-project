@@ -104,7 +104,11 @@ D. Top Selling Product By Region
 - find the number of sales transactions in each region.
 
   ![sql_sales_transaction](sql_sales_transaction.JPG)
+  
 - find the highest-selling product by total sales value.
+
+  ![sql_Sales_Top](sql_Sales_Top.JPG)
+  
 - calculate total revenue per product.
 - calculate monthly sales totals for the current year.
 - find the top 5 customers by total purchase amount.
