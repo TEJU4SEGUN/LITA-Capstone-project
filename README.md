@@ -87,6 +87,8 @@ D. Top Selling Product By Region
 
 3. **Use Excel formulas to calculate metrics such as**:
    - average sales per product
+  
+     ![image/Average_sales_Per_Product](image/Average_sales_Per_Product.JPG)
      
 
   
