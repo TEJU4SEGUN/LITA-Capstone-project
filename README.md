@@ -110,8 +110,14 @@ D. Top Selling Product By Region
   ![sql_Sales_Top](sql_Sales_Top.JPG)
   
 - calculate total revenue per product.
+
+- 
 - calculate monthly sales totals for the current year.
+
+- 
 - find the top 5 customers by total purchase amount.
+
+- 
 - calculate the percentage of total sales contributed by each region.
 - identify products with no sales in the last quarter.
      
