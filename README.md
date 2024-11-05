@@ -81,6 +81,10 @@ D. Top Selling Product By Region
 ## Key Insights
 - Shoes had the highest sales in the south region
 
+  E.Sum of Total Revenue by Month
+
+  
+
 
 
     
