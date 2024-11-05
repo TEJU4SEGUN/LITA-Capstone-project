@@ -93,6 +93,20 @@ D. Top Selling Product By Region
      - total revenue by region
     
        ![Total_revenue_by_region](Total_revenue_by_region.JPG)
+
+
+4  Then i Wrote queries to extract key insights based on the following
+
+- retrieve the total sales for each product category.
+
+  
+- find the number of sales transactions in each region.
+- find the highest-selling product by total sales value.
+- calculate total revenue per product.
+- calculate monthly sales totals for the current year.
+- find the top 5 customers by total purchase amount.
+- calculate the percentage of total sales contributed by each region.
+- identify products with no sales in the last quarter.
      
 
   
