@@ -91,6 +91,8 @@ D. Top Selling Product By Region
      ![image/Average_sales_Per_Product](image/Average_sales_Per_Product.JPG)
 
      - total revenue by region
+    
+       ![Total_revenue_by_region](Total_revenue_by_region.JPG)
      
 
   
