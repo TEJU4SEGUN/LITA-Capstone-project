@@ -83,7 +83,7 @@ D. Top Selling Product By Region
 
   E.Sum of Total Revenue by Month
 
-  ![image/Sum of Total Revenue  by Month](image/Sum%20of%20Total%20Revenue%20by%20Month.JPG)
+  ![Sum_of_Total_Revenue_by_Month](Sum_of_Total_Revenue_by_Month.JPG)
 
   
 
